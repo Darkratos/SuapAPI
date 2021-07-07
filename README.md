@@ -19,6 +19,6 @@ suap_client = suap_client( 'usuario', 'senha' )
 
 Agora você pode usar as funções disponíveis.
 
-get_boletim -> Recebe o ano e o período. Retorna um JSON com os dados do boletim.
-get_dados -> Retorna um JSON com os dados do aluno.
+get_boletim -> Recebe o ano e o período. Retorna um JSON com os dados do boletim. 
+get_dados -> Retorna um JSON com os dados do aluno. 
 get_token -> Retorna o token de acesso gerado no login.
