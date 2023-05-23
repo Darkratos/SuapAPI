@@ -1,5 +1,7 @@
 # SuapAPI
 
+DEPRECATED: A API, ao menos referente ao IFSULDEMINAS, teve mudanças e não funciona mais dessa forma.
+
 Uma adaptação em python do projeto originalmente criado por ivmelo (disponível em https://github.com/ivmelo/suap-api-php/).  
 Ela atualmente suporta o IFSULDEMINAS, mas pode ser facilmente modificada para suportar outros institutos que usam o mesmo sistema.  
 Como dependências, há a lib requests e json.  
