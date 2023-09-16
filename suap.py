@@ -33,7 +33,7 @@ class suap_client:
             'g-recaptcha-response': ''
         }
 
-        self.__session.post( url= 'https://suap.ifsuldeminas.edu.br/accounts/login/', headers= self.headers, data= post_data )
+        self.__session.post( url= 'https://suap.ifsuldeminas.edu.br/accounts/login/', headers= headers, data= post_data )
     
     # Retorna o token
     def get_token( self ):
